@@ -9,3 +9,7 @@
 3. 连接 GitHub 远程仓库
 4. 第一次推送代码
 5. 修改 README 并再次推送
+
+## GitHub 网页修改记录
+
+这一段内容是在 GitHub 网页上直接修改的，用来练习 git pull。
